@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a584fcb-b3ad-4840-b1c9-ac1b36b7a1fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML Paragraphs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML Images.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HTML.iws" />
@@ -58,8 +58,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HTML Paragraphs.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HTML Paragraphs.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML Paragraphs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTML Images.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML Images.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -85,6 +95,7 @@
         <option value="$PROJECT_DIR$/HTML Attributes.html" />
         <option value="$PROJECT_DIR$/HTML Headings.html" />
         <option value="$PROJECT_DIR$/HTML Paragraphs.html" />
+        <option value="$PROJECT_DIR$/HTML Images.html" />
       </list>
     </option>
   </component>
@@ -252,6 +263,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML Paragraphs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Images.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="404">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
